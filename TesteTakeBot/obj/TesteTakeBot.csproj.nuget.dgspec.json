@@ -1,0 +1,484 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Take\\TesteTakeBot\\TesteTakeBot\\TesteTakeBot.csproj": {}
+  },
+  "projects": {
+    "C:\\Take\\TesteTakeBot\\TesteTakeBot.Domain.Models\\TesteTakeBot.Domain.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Domain.Models\\TesteTakeBot.Domain.Models.csproj",
+        "projectName": "TesteTakeBot.Domain.Models",
+        "projectPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Domain.Models\\TesteTakeBot.Domain.Models.csproj",
+        "packagesPath": "C:\\Users\\Camilla\\.nuget\\packages\\",
+        "outputPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Domain.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Camilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Flurl": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Take\\TesteTakeBot\\TesteTakeBot.Infra.CrossCutting\\TesteTakeBot.Infra.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Infra.CrossCutting\\TesteTakeBot.Infra.CrossCutting.csproj",
+        "projectName": "TesteTakeBot.Infra.CrossCutting",
+        "projectPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Infra.CrossCutting\\TesteTakeBot.Infra.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\Camilla\\.nuget\\packages\\",
+        "outputPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Infra.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Camilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Take\\TesteTakeBot\\TesteTakeBot.Domain.Models\\TesteTakeBot.Domain.Models.csproj": {
+                "projectPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Domain.Models\\TesteTakeBot.Domain.Models.csproj"
+              },
+              "C:\\Take\\TesteTakeBot\\TesteTakeBot.Shared.Util\\TesteTakeBot.Shared.Util.csproj": {
+                "projectPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Shared.Util\\TesteTakeBot.Shared.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Flurl": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Take\\TesteTakeBot\\TesteTakeBot.Infra.Ioc\\TesteTakeBot.Infra.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Infra.Ioc\\TesteTakeBot.Infra.Ioc.csproj",
+        "projectName": "TesteTakeBot.Infra.Ioc",
+        "projectPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Infra.Ioc\\TesteTakeBot.Infra.Ioc.csproj",
+        "packagesPath": "C:\\Users\\Camilla\\.nuget\\packages\\",
+        "outputPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Infra.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Camilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Take\\TesteTakeBot\\TesteTakeBot.Service.Services\\TesteTakeBot.Service.Services.csproj": {
+                "projectPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Service.Services\\TesteTakeBot.Service.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.4.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Take\\TesteTakeBot\\TesteTakeBot.Service.Services\\TesteTakeBot.Service.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Service.Services\\TesteTakeBot.Service.Services.csproj",
+        "projectName": "TesteTakeBot.Service.Services",
+        "projectPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Service.Services\\TesteTakeBot.Service.Services.csproj",
+        "packagesPath": "C:\\Users\\Camilla\\.nuget\\packages\\",
+        "outputPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Service.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Camilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Take\\TesteTakeBot\\TesteTakeBot.Infra.CrossCutting\\TesteTakeBot.Infra.CrossCutting.csproj": {
+                "projectPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Infra.CrossCutting\\TesteTakeBot.Infra.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Flurl": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Take\\TesteTakeBot\\TesteTakeBot.Shared.Util\\TesteTakeBot.Shared.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Shared.Util\\TesteTakeBot.Shared.Util.csproj",
+        "projectName": "TesteTakeBot.Shared.Util",
+        "projectPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Shared.Util\\TesteTakeBot.Shared.Util.csproj",
+        "packagesPath": "C:\\Users\\Camilla\\.nuget\\packages\\",
+        "outputPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Shared.Util\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Camilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Flurl": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Take\\TesteTakeBot\\TesteTakeBot\\TesteTakeBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Take\\TesteTakeBot\\TesteTakeBot\\TesteTakeBot.csproj",
+        "projectName": "TesteTakeBot",
+        "projectPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot\\TesteTakeBot.csproj",
+        "packagesPath": "C:\\Users\\Camilla\\.nuget\\packages\\",
+        "outputPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Camilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Take\\TesteTakeBot\\TesteTakeBot.Infra.Ioc\\TesteTakeBot.Infra.Ioc.csproj": {
+                "projectPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Infra.Ioc\\TesteTakeBot.Infra.Ioc.csproj"
+              },
+              "C:\\Take\\TesteTakeBot\\TesteTakeBot.Service.Services\\TesteTakeBot.Service.Services.csproj": {
+                "projectPath": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Service.Services\\TesteTakeBot.Service.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.4.0, )"
+            },
+            "Flurl": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

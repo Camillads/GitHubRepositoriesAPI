@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "y0OxGRo1joryJtcNqxc5Z68l33bQ2i+gduyMi21V3DyTyDvtL342hlKjgrn5w+r4P3LVET4nPWtApOzaO6yHkg==",
+  "success": true,
+  "projectFilePath": "C:\\Take\\TesteTakeBot\\TesteTakeBot.Shared.Util\\TesteTakeBot.Shared.Util.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Camilla\\.nuget\\packages\\flurl\\3.0.1\\flurl.3.0.1.nupkg.sha512",
+    "C:\\Users\\Camilla\\.nuget\\packages\\flurl.http\\3.0.1\\flurl.http.3.0.1.nupkg.sha512",
+    "C:\\Users\\Camilla\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\Camilla\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Camilla\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\Camilla\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Camilla\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\Camilla\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Camilla\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Camilla\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
