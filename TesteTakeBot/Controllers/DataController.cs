@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using TesteTakeBot.Domain.Models.Components;
 using TesteTakeBot.Domain.Models.GitHub;
 using TesteTakeBot.Service.Services.Interfaces;
 
@@ -20,7 +21,7 @@ namespace TesteTakeBot.Controllers
     [Produces("application/json")]
     [Consumes("application/json")]
     [HttpGet]
-    public async Task<ActionResult<List<ReposGitHub>>> GetDataApiGitHub()
+    public async Task<ActionResult<CarrosselDinamic>> GetDataApiGitHub()
     {
       try
       {

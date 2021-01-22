@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using TesteTakeBot.Domain.Models.Components;
 using TesteTakeBot.Domain.Models.GitHub;
 using TesteTakeBot.Service.Services.Interfaces;
 using TesteTakeBot.Shared.Util.Constants;
@@ -16,7 +17,7 @@ namespace TesteTakeBot.Service.Services
       _gitHubService = gitHubService;
     }
 
-    public Task<List<ReposGitHub>> GetDataGitHubRepositoryTakeBlipAsync()
+    public Task<CarrosselDinamic> GetDataGitHubRepositoryTakeBlipAsync()
     {
       try
       {
