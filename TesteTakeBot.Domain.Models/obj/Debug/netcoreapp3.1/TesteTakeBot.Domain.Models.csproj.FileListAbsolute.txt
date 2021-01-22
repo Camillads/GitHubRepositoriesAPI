@@ -6,3 +6,4 @@ C:\Take\TesteTakeBot\TesteTakeBot.Domain.Models\obj\Debug\netcoreapp3.1\TesteTak
 C:\Take\TesteTakeBot\TesteTakeBot.Domain.Models\obj\Debug\netcoreapp3.1\TesteTakeBot.Domain.Models.dll
 C:\Take\TesteTakeBot\TesteTakeBot.Domain.Models\obj\Debug\netcoreapp3.1\TesteTakeBot.Domain.Models.pdb
 C:\Take\TesteTakeBot\TesteTakeBot.Domain.Models\obj\Debug\netcoreapp3.1\TesteTakeBot.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Take\TesteTakeBot\TesteTakeBot.Domain.Models\obj\Debug\netcoreapp3.1\TesteTakeBot.Domain.Models.csprojAssemblyReference.cache

@@ -1,6 +1,5 @@
 C:\Take\TesteTakeBot\TesteTakeBot\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Take\TesteTakeBot\TesteTakeBot\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Take\TesteTakeBot\TesteTakeBot\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Take\TesteTakeBot\TesteTakeBot\bin\Debug\netcoreapp3.1\TesteTakeBot.exe
 C:\Take\TesteTakeBot\TesteTakeBot\bin\Debug\netcoreapp3.1\TesteTakeBot.deps.json
 C:\Take\TesteTakeBot\TesteTakeBot\bin\Debug\netcoreapp3.1\TesteTakeBot.runtimeconfig.json
@@ -45,3 +44,4 @@ C:\Take\TesteTakeBot\TesteTakeBot\bin\Debug\netcoreapp3.1\TesteTakeBot.Infra.Ioc
 C:\Take\TesteTakeBot\TesteTakeBot\obj\Debug\netcoreapp3.1\TesteTakeBot.csproj.CoreCompileInputs.cache
 C:\Take\TesteTakeBot\TesteTakeBot\obj\Debug\netcoreapp3.1\TesteTakeBot.MvcApplicationPartsAssemblyInfo.cs
 C:\Take\TesteTakeBot\TesteTakeBot\obj\Debug\netcoreapp3.1\TesteTakeBot.MvcApplicationPartsAssemblyInfo.cache
+C:\Take\TesteTakeBot\TesteTakeBot\obj\Debug\netcoreapp3.1\scopedcss\bundle\TesteTakeBot.styles.css

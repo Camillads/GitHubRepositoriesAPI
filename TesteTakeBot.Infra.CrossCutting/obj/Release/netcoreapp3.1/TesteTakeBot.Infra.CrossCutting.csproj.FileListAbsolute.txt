@@ -1,0 +1,14 @@
+C:\Take\TesteTakeBot\TesteTakeBot.Infra.CrossCutting\bin\Release\netcoreapp3.1\TesteTakeBot.Infra.CrossCutting.deps.json
+C:\Take\TesteTakeBot\TesteTakeBot.Infra.CrossCutting\bin\Release\netcoreapp3.1\TesteTakeBot.Infra.CrossCutting.dll
+C:\Take\TesteTakeBot\TesteTakeBot.Infra.CrossCutting\bin\Release\netcoreapp3.1\TesteTakeBot.Infra.CrossCutting.pdb
+C:\Take\TesteTakeBot\TesteTakeBot.Infra.CrossCutting\bin\Release\netcoreapp3.1\TesteTakeBot.Domain.Models.dll
+C:\Take\TesteTakeBot\TesteTakeBot.Infra.CrossCutting\bin\Release\netcoreapp3.1\TesteTakeBot.Shared.Util.dll
+C:\Take\TesteTakeBot\TesteTakeBot.Infra.CrossCutting\bin\Release\netcoreapp3.1\TesteTakeBot.Domain.Models.pdb
+C:\Take\TesteTakeBot\TesteTakeBot.Infra.CrossCutting\bin\Release\netcoreapp3.1\TesteTakeBot.Shared.Util.pdb
+C:\Take\TesteTakeBot\TesteTakeBot.Infra.CrossCutting\obj\Release\netcoreapp3.1\TesteTakeBot.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Take\TesteTakeBot\TesteTakeBot.Infra.CrossCutting\obj\Release\netcoreapp3.1\TesteTakeBot.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Take\TesteTakeBot\TesteTakeBot.Infra.CrossCutting\obj\Release\netcoreapp3.1\TesteTakeBot.Infra.CrossCutting.AssemblyInfo.cs
+C:\Take\TesteTakeBot\TesteTakeBot.Infra.CrossCutting\obj\Release\netcoreapp3.1\TesteTakeBot.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Take\TesteTakeBot\TesteTakeBot.Infra.CrossCutting\obj\Release\netcoreapp3.1\TesteTakeBot.Infra.CrossCutting.csproj.CopyComplete
+C:\Take\TesteTakeBot\TesteTakeBot.Infra.CrossCutting\obj\Release\netcoreapp3.1\TesteTakeBot.Infra.CrossCutting.dll
+C:\Take\TesteTakeBot\TesteTakeBot.Infra.CrossCutting\obj\Release\netcoreapp3.1\TesteTakeBot.Infra.CrossCutting.pdb

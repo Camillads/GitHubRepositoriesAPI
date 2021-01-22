@@ -1,0 +1,9 @@
+C:\Take\TesteTakeBot\TesteTakeBot.Domain.Models\bin\Release\netcoreapp3.1\TesteTakeBot.Domain.Models.deps.json
+C:\Take\TesteTakeBot\TesteTakeBot.Domain.Models\bin\Release\netcoreapp3.1\TesteTakeBot.Domain.Models.dll
+C:\Take\TesteTakeBot\TesteTakeBot.Domain.Models\bin\Release\netcoreapp3.1\TesteTakeBot.Domain.Models.pdb
+C:\Take\TesteTakeBot\TesteTakeBot.Domain.Models\obj\Release\netcoreapp3.1\TesteTakeBot.Domain.Models.csprojAssemblyReference.cache
+C:\Take\TesteTakeBot\TesteTakeBot.Domain.Models\obj\Release\netcoreapp3.1\TesteTakeBot.Domain.Models.AssemblyInfoInputs.cache
+C:\Take\TesteTakeBot\TesteTakeBot.Domain.Models\obj\Release\netcoreapp3.1\TesteTakeBot.Domain.Models.AssemblyInfo.cs
+C:\Take\TesteTakeBot\TesteTakeBot.Domain.Models\obj\Release\netcoreapp3.1\TesteTakeBot.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Take\TesteTakeBot\TesteTakeBot.Domain.Models\obj\Release\netcoreapp3.1\TesteTakeBot.Domain.Models.dll
+C:\Take\TesteTakeBot\TesteTakeBot.Domain.Models\obj\Release\netcoreapp3.1\TesteTakeBot.Domain.Models.pdb
