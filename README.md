@@ -6,3 +6,5 @@ Requisição HTTPGet
 
 O arquivo jsonBot.json contém o json do fluxo do chatbot criado para consumir os dados da API e listar as informações para o usuário.
 
+O arquivo fluxo_bot.pdf contém prints de todo o fluxo do chatbot desenvolvido dentro da ferramenta Builder.
+
