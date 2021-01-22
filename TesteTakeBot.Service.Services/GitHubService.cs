@@ -56,7 +56,7 @@ namespace TesteTakeBot.Service.Services
             Type = "application/vnd.lime.media-link+json",
             Value = new Val
             {
-              Title = repo.FullName,
+              Title = repo.Name,
               Text = repo.Description,
               Uri = repo.Owner.AvatarUrl
             }
