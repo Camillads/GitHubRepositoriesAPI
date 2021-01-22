@@ -4,5 +4,5 @@ Está é uma API criada para consumir dados de repositórios da API do GitHub. N
 Endpoint: http://camilladamasceno-001-site1.itempurl.com/api/Data
 Requisição HTTPGet
 
-O arquivo jsonBot contém o json do fluxo do chatbot criado para consumir os dados da API e listar as informações para o usuário.
+O arquivo jsonBot.json contém o json do fluxo do chatbot criado para consumir os dados da API e listar as informações para o usuário.
 
